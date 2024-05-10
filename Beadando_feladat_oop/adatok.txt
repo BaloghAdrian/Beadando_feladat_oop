@@ -1,0 +1,3 @@
+név:Balogh Adrián
+szak: Gazdaságinformatikus(Nappali tagozat)
+neptun-kód: F1E44G
